@@ -1,0 +1,11 @@
+D:\ChatBot\New folder\Code\dotnetLexChatBot\bin\Release\netcoreapp2.1\dotnetLexChatBot.deps.json
+D:\ChatBot\New folder\Code\dotnetLexChatBot\bin\Release\netcoreapp2.1\dotnetLexChatBot.runtimeconfig.json
+D:\ChatBot\New folder\Code\dotnetLexChatBot\bin\Release\netcoreapp2.1\dotnetLexChatBot.runtimeconfig.dev.json
+D:\ChatBot\New folder\Code\dotnetLexChatBot\bin\Release\netcoreapp2.1\dotnetLexChatBot.dll
+D:\ChatBot\New folder\Code\dotnetLexChatBot\bin\Release\netcoreapp2.1\dotnetLexChatBot.pdb
+D:\ChatBot\New folder\Code\dotnetLexChatBot\obj\Release\netcoreapp2.1\dotnetLexChatBot.csprojAssemblyReference.cache
+D:\ChatBot\New folder\Code\dotnetLexChatBot\obj\Release\netcoreapp2.1\dotnetLexChatBot.csproj.CoreCompileInputs.cache
+D:\ChatBot\New folder\Code\dotnetLexChatBot\obj\Release\netcoreapp2.1\dotnetLexChatBot.AssemblyInfoInputs.cache
+D:\ChatBot\New folder\Code\dotnetLexChatBot\obj\Release\netcoreapp2.1\dotnetLexChatBot.AssemblyInfo.cs
+D:\ChatBot\New folder\Code\dotnetLexChatBot\obj\Release\netcoreapp2.1\dotnetLexChatBot.dll
+D:\ChatBot\New folder\Code\dotnetLexChatBot\obj\Release\netcoreapp2.1\dotnetLexChatBot.pdb
